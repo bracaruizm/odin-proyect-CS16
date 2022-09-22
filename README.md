@@ -13,3 +13,7 @@ https://www.dafont.com/es/counter-strike.font
 >https://www.hltv.org/
 
 >https://blog.counter-strike.net/
+
+Link for the webpage: 
+
+>https://bracaruizm.github.io/odin-proyect-CS16/
