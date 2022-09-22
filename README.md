@@ -3,9 +3,13 @@ A Odin Proyect's activity on creating a simple webpage. Made by Matías Enzo Bra
 
 Sources:
 
-https://knowyourmeme.com/memes/door-stuck
-https://www.gamespot.com/articles/top-100-counter-strike-players-of-all-time-by-priz/1100-6436734/
+>https://knowyourmeme.com/memes/door-stuck
+
+>https://www.gamespot.com/articles/top-100-counter-strike-players-of-all-time-by-priz/1100-6436734/
 https://www.dafont.com/es/counter-strike.font
-https://liquipedia.net/
-https://www.hltv.org/
-https://blog.counter-strike.net/
+
+>https://liquipedia.net/
+
+>https://www.hltv.org/
+
+>https://blog.counter-strike.net/
