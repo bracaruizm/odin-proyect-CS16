@@ -1,5 +1,6 @@
 # odin-proyect-CS16
-A Odin Proyect's activity on creating a simple webpage. Made by Matías Enzo Bracamonte Ruiz. Most images used on this proyect are not of my own.
+A TRIBUTE TO COUNTER STRIKE 1.6
+A Odin Proyect's activity on creating a simple webpage. Made by Matías Enzo Bracamonte Ruiz. Most images used on this proyect are not of my own. 
 
 Sources:
 
